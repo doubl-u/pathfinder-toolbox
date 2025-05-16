@@ -2,7 +2,8 @@
 
 A lightweight JavaScript toolkit for testing and visualizing pathfinding algorithms on customizable grids. Compare performance metrics, toggle obstacles, and analyze navigation strategies in real-time.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Pathfinder-Tool+Demo) *(Replace with actual screenshot)*
+![Screenshot](https://github.com/user-attachments/assets/604dd933-3ce6-433f-a59c-6d83aaf989ba)
+
 
 ## Features
 
