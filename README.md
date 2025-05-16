@@ -1,2 +1,23 @@
-# pathfinder-toolbox
-A JavaScript toolkit for testing and comparing pathfinding algorithms on a configurable grid. Supports randomized trials, dynamic obstacle placement, and performance tracking (success rates, step counts, and efficiency metrics). Includes visualization for methods like random walks and Dijkstra's algorithm, with options for adding custom strategies
+# Pathfinder-Toolbox 🧭⚡
+
+A lightweight JavaScript toolkit for testing and visualizing pathfinding algorithms on customizable grids. Compare performance metrics, toggle obstacles, and analyze navigation strategies in real-time.
+
+![Demo Screenshot](https://via.placeholder.com/800x400?text=Pathfinder-Tool+Demo) *(Replace with actual screenshot)*
+
+## Features
+
+- **Multiple Algorithms**: Includes Random Walk, Dijkstra's, and more (extensible)
+- **Interactive Grid**: 
+  - Adjust grid size (default 10x10)
+  - Place/remove walls with clicks
+  - Set custom start/end points
+- **Performance Metrics**:
+  - Success rate tracking
+  - Step count analysis
+  - Runtime comparison
+- **Visualization**:
+  - Color-coded paths (visited nodes, optimal route)
+  - Real-time updates
+
+## Demo
+[Check out the Demo](https://doubl-u.github.io/pathfinder-toolbox)
